@@ -23,13 +23,16 @@ require('include/header.php');
 
     <section class="bandeau">
         <img src="image/accueil/forme.png" alt="" >
-        <!-- <article class="bienvenue">
+         <article class="bienvenue">
+            <span class="scrollText"><span> 어서 와 </span> - <span>Bienvenue</span> - <span> բարի գալուստ </span> - <span>Hi </span> - <span> مرحبا </span> - <span> Halowa </span> -
+                        <span> Velkominn </span> - <span> ยินดีต้อนรับ </span> -<span> dalal-jàmm </span> - <span> Hoşgeldiniz</span> -
+                        <span> 欢迎 </span> -  <span>Bemvenida</span> -  <span>ようこそ</span> - <span> მოგესალმებით</span> -
+            </span><span class="scrollText"><span> 어서 와 </span> - <span>Bienvenue</span> - <span> բարի գալուստ </span> - <span>Hi </span> - <span> مرحبا </span> - <span> Halowa </span> -
+                        <span> Velkominn </span> - <span> ยินดีต้อนรับ </span> -<span> dalal-jàmm </span> - <span> Hoşgeldiniz</span> -
+                        <span> 欢迎 </span> -  <span>Bemvenida</span> -  <span>ようこそ</span> - <span> მოგესალმებით</span> -
+            </span>
+        </article>
 
-                <span> 어서 와 </span> - <span>Bienvenue</span> - <span> բարի գալուստ </span> - <span>Hi </span> - <span> مرحبا </span> - <span> Halowa </span> - 
-                <span> Velkominn </span> - <span> ยินดีต้อนรับ </span> -<span> dalal-jàmm </span> - <span> Hoşgeldiniz</span> - 
-                <span> 欢迎 </span> -  <span>Bemvenida</span> -  <span>ようこそ</span> - <span> მოგესალმებით</span> -
-          
-        </article> -->
    </section>
 
     <section class="contener">
